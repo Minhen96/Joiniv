@@ -1,0 +1,6 @@
+@Joiniv_HostAddress = http://localhost:5187
+
+GET {{Joiniv_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
